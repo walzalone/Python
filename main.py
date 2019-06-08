@@ -14,3 +14,5 @@ else:
     print("cannot rent this book")
 
 print("================END==============")
+for i in range(10):
+    print(i)
